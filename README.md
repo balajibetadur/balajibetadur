@@ -21,9 +21,10 @@ Besides programming, I enjoy reading, photography and travelling.
 - ⚡ One more thing **I Love building end to end projects!**
 
 <br>
+<!--
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=balajibetadur&show_icons=true" alt="balaji betadur"/>
-</p>
+</p>-->
 
 <p align="center">
 <a href="https://www.linkedin.com/in/balaji-betadur">	
