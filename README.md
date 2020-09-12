@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Balaji Betadur</h1>
-<h3 align="center">DeepLearning intern @ IIT Guwahati ● Data Science and AI certified by IBM ● HackerRank ● Computer Vision ● NLP</h3>
+<h3 align="center">DeepLearning intern @ IIT Guwahati ● Data Science and AI certified by IBM ● HackerRank Python #1 ● Computer Vision ● NLP</h3>
 
 <br />
 <br />
