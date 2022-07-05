@@ -23,7 +23,7 @@ Besides programming, I enjoy reading, photography and travelling.
 <br>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=balajibetadur&show_icons=true" alt="balaji betadur"/>
+<img src="https://github-readme-stats.vercel.app/api?username=balajibetadur&show_icons=true&count_private=true" alt="balaji betadur"/>
 </p>
 
 <p align="center">
