@@ -6,19 +6,19 @@
 <br />
 I am a computer science major student, who is passionate about Data and with the art of developing something useful out of it 🚀.
 <br/>
-Besides programming, I enjoy reading, photography and travelling.
+Besides programming, I enjoy playing chess, painting and travelling.
 <br>
 <img align="right" alt="GIF" src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="400px" />
   
 **A bit about me:**
 
-- 🔭 I’m currently working as a **Deep Learning Research Intern @ IIT Guwahati**
+- 🔭 I’m currently working as a **Quantitative Data Analyst** at Bluebery Capital
 - 👯 I’m looking to collaborate on **DL, NLP and Computer Vision Projects**
 - 🤔 I’m looking for help with **learning anything new!**
 - 👨‍💻 Anything about me is available at **[Balaji-Betadur](https://www.linkedin.com/in/balaji-betadur/)**
 - 💬 Ask me about **anything you feel like!**
 - 📫 How to reach me **balajibetadur@gmail.com**
-- ⚡ One more thing **I Love building end to end projects!**
+- ⚡ One more thing **I believe in Learning by mistakes!**
 
 <br>
 
