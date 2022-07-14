@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Balaji Betadur</h1>
-<h3 align="center">DeepLearning intern @ IIT Guwahati ● Data Science and AI certified by IBM ● HackerRank Python #1 ● Computer Vision ● NLP</h3>
+<h3 align="center">Love to play with Data ● Data Science and AI certified by IBM ● HackerRank Python #1 ● Computer Vision ● NLP ● ML / DL </h3>
 
 <br />
 <br />
@@ -14,6 +14,8 @@ Besides programming, I enjoy playing chess, painting and travelling.
 
 - 🔭 I’m currently working as a **Quantitative Data Analyst** at Bluebery Capital
 - 👯 I’m looking to collaborate on **DL, NLP and Computer Vision Projects**
+- ⚡ Runner Up in **Two National Level AI hackathons held by IIT Bombay**
+- 🔭 I completed my internship as deep learning research assisstant at **IIT guwahati and IIT bhubaneshwar**
 - 🤔 I’m looking for help with **learning anything new!**
 - 👨‍💻 Anything about me is available at **[Balaji-Betadur](https://www.linkedin.com/in/balaji-betadur/)**
 - 💬 Ask me about **anything you feel like!**
