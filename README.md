@@ -12,7 +12,7 @@ Besides programming, I enjoy playing chess, painting and travelling.
   
 **A bit about me:**
 
-- 🔭 I’m currently working as a **Senior Software 2 ** at Bluebery Capital
+- 🔭 I’m currently working as a **Senior Software 2** at Bluebery Capital
 - 👯 I’m looking to collaborate on **DL, NLP and Computer Vision Projects**
 - ⚡ Runner Up in **Two National Level AI hackathons held by IIT Bombay**
 - 🔭 I completed my internship as deep learning research assisstant at **IIT guwahati and IIT bhubaneshwar**
